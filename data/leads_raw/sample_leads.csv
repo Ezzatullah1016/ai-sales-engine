@@ -1,0 +1,8 @@
+source,capture_date,company,contact_name,role,email,phone,website,country,raw_need,notes
+upwork,2026-06-02,Brightline Retail,Maria Gomez,Founder,,,https://brightlineretail.example,US,"Need a React + Node web app to replace our slow Shopify-plus custom store. Budget flexible for the right team.",Posted job 3 days ago; 12 proposals so far
+bark,2026-06-03,FitNorth Studios,Jamie Carter,Owner,jamie@fitnorth.example,,https://fitnorth.example,UK,"Looking for someone to build an iOS + Android booking app for our gym chain.",Bark request; responded to 2 pros already
+facebook,2026-06-04,Otto Logistics,,,,, https://ottologistics.example,DE,"Commented on our post asking if we build fleet-tracking dashboards.",Only a company page; no contact yet
+upwork,2026-06-05,Brightline Retail,Maria Gomez,Founder,maria@brightlineretail.example,,https://brightlineretail.example,US,"Same React/Node store rebuild — followed up via message.",DUPLICATE of row 1, richer (has email)
+instagram,2026-06-05,GlowSkin Cosmetics,Priya N,Marketing Lead,,,,IN,"DM'd asking for a cheap landing page, mentioned $150 budget.",Very low budget
+scrape,2026-06-06,Vector Analytics,Tom Beck,CTO,tom@vectoranalytics.example,,https://vectoranalytics.example,US,"Hiring 3 React + 2 Python engineers (from their careers page).",Strong staff-augmentation signal
+referral,2026-06-07,Cedar Health,Dr. Anya Rao,COO,anya@cedarhealth.example,,https://cedarhealth.example,AU,"Wants a HIPAA-style patient portal; referred by an existing client.",Warm referral
